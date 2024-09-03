@@ -74,4 +74,35 @@ Power BI is generally more affordable, especially for Microsoft 365 users.
 ![customer feedback dashboard 1](https://github.com/user-attachments/assets/1324c1ed-68d0-4069-9acc-87157f5896da)
 
 
+**part_3**
 
+**task_7**
+
+**Summary of Findings**
+
+
+**1. Correlation Analysis**
+
+**Correlation Matrix:**
+
+There are strong positive correlations between:
+'sepal_length' and 'petal_length'
+'petal_length' and 'petal_width'
+No significant correlation was found between 'sepal_width' and other features.
+
+**2. Hypothesis Testing**
+
+**T-test Results:**
+
+Comparison: Mean sepal lengths of 'setosa' vs. 'versicolor'
+T-statistic: -10.52
+p-value: 0.0000
+Since the p-value is less than 0.05, the null hypothesis is rejected, indicating a significant difference in sepal lengths between these species.
+
+**3. Visualizations**
+
+**Correlation Matrix:**
+
+Visualized using a heatmap to showcase the strength of relationships between features.
+Distribution of 'sepal_length':
+Displayed to highlight distinct patterns across different species.
