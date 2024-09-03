@@ -103,7 +103,7 @@ Displayed to highlight distinct patterns across different species.
 
 **part_4**
 
-**task_9**
+**task_9 & task_10**
 
 **Identifying Key Customer Segments and Their Behaviors**
 
