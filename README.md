@@ -60,7 +60,8 @@ Power BI is generally more affordable, especially for Microsoft 365 users.
 
 **part_2**
 
-**task_5**
+**task_5** ![image](https://github.com/user-attachments/assets/d325853d-19a8-4142-8a69-ef47e30803ab)
+
 
 **task_6**![customer feedback dashboard 1](https://github.com/user-attachments/assets/1324c1ed-68d0-4069-9acc-87157f5896da)
 
