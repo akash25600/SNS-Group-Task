@@ -1,5 +1,8 @@
 # SNS-Group-Task
 
+![image](https://github.com/user-attachments/assets/bc4de95d-44e1-47fb-bbf8-c40976913add)
+
+
 **part_1**
 
 **1. Data Visualization**
