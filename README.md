@@ -59,3 +59,8 @@ Tableau is often used in data science; Power BI is common in business settings.
 Power BI is generally more affordable, especially for Microsoft 365 users.
 
 **part_2**
+
+**task_5**
+
+**task_6**![customer feedback dashboard 1](https://github.com/user-attachments/assets/1324c1ed-68d0-4069-9acc-87157f5896da)
+
